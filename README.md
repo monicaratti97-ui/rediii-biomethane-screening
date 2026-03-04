@@ -1,10 +1,10 @@
-# RED III Screening Tool 🌱
+# RED III Screening Tool
 
 Strumento di screening per la conformità alla Direttiva Europea **RED III** (Renewable Energy Directive), pensato per operatori di impianti di biometano e biogas che vogliono valutare la propria posizione normativa e pianificare le azioni necessarie per accedere a incentivi, Garanzie di Origine (GO) e mercati regolamentati.
 
 ---
 
-## ✨ Funzionalità principali
+## Funzionalità principali
 
 - **Screening guidato** — questionario strutturato per raccogliere dati sull'impianto, gli obiettivi e la maturità documentale
 - **Esito immediato** — calcolo automatico di:
@@ -17,7 +17,7 @@ Strumento di screening per la conformità alla Direttiva Europea **RED III** (Re
 
 ---
 
-## 🛠️ Stack tecnologico
+## Stack tecnologico
 
 | Tecnologia | Utilizzo |
 |---|---|
@@ -28,7 +28,7 @@ Strumento di screening per la conformità alla Direttiva Europea **RED III** (Re
 
 ---
 
-## 📁 Struttura del progetto
+## Struttura del progetto
 
 ```
 app/
@@ -47,7 +47,7 @@ app/
 
 ---
 
-## 🚀 Getting started
+## Getting started
 
 ### Prerequisiti
 
@@ -79,7 +79,7 @@ npm start
 
 ---
 
-## 🔍 Come funziona
+## Come funziona
 
 1. L'utente compila il **questionario di screening** (stato impianto, obiettivi, maturità LCA, tracciabilità feedstock, certificazioni, monitoraggio metano, ecc.)
 2. Le risposte vengono salvate in `localStorage` e passate alla pagina **Result** via query param
@@ -91,7 +91,7 @@ npm start
 
 ---
 
-## 📋 Domini di compliance valutati
+## Domini di compliance valutati
 
 | Dominio | Descrizione |
 |---|---|
@@ -105,6 +105,3 @@ npm start
 
 ---
 
-## 📄 Licenza
-
-Distribuito sotto licenza MIT. Vedi `LICENSE` per i dettagli.
